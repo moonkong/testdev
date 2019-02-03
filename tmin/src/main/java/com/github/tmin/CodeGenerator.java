@@ -22,7 +22,7 @@ public class CodeGenerator {
 	
 	    // 全局配置
 	    GlobalConfig gc = new GlobalConfig();
-	    gc.setOutputDir("C://code");
+	    gc.setOutputDir("C://coded");
 	    gc.setFileOverride(true);
 	    gc.setActiveRecord(false);// 不需要ActiveRecord特性的请改为false
 	    gc.setEnableCache(false);// XML 二级缓存
